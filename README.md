@@ -1,2 +1,2 @@
 # scraperauto
-Web Scraper for Python
+Web Scraper 
